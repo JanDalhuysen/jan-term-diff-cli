@@ -1,0 +1,21 @@
+{
+  "name": "jan-term-diff-cli",
+  "version": "1.1.0",
+  "main": "client.js",
+  "bin": {
+    "jan-term-diff-cli": "client.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jan Dalhuysen",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.11.0",
+    "chalk": "^5.5.0",
+    "form-data": "^4.0.4",
+    "socket.io-client": "^4.8.1"
+  }
+}
