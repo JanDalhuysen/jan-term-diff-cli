@@ -1,6 +1,6 @@
 {
   "name": "jan-term-diff-cli",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "main": "client.js",
   "bin": {
     "jan-term-diff-cli": "client.js"
